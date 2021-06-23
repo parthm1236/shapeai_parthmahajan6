@@ -1,0 +1,16 @@
+
+
+		Weather Stats for - KOLHAPUR  || 23 Jun 2021 | 03:38:15 PM
+
+Current temperature is: 23.42 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : overcast clouds% 
+Current wind speed    : {} Kmph 
+
+
+		Weather Stats for - KOLHAPUR  || 23 Jun 2021 | 03:45:49 PM
+
+Current temperature is: 23.42 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : overcast clouds% 
+Current wind speed    : {} Kmph 
